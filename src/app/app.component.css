@@ -1,0 +1,19 @@
+.delete {
+  color: #808080;
+}
+.edit {
+  color: #4a4a4a;
+}
+.resolve {
+  color: #50b63f;
+}
+.table > :not(caption) > * > * {
+  padding: 14px 3px;
+  text-align: center;
+}
+.action {
+  justify-content: space-evenly;
+}
+mat-icon {
+  cursor: pointer;
+}
